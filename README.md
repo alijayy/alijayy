@@ -17,6 +17,8 @@ I'm a passionate developer who loves building cool projects and solving problems
 - **Web Development:**  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+
 
 - **Tools:** 
   ![Git](https://img.shields.io/badge/-Git-lightgrey) ![VSCode](https://img.shields.io/badge/-VSCode-blue)
