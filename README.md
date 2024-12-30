@@ -1,12 +1,15 @@
 # Hi there 👋, I'm Ali!
 I'm a passionate developer who loves building cool projects and solving problems with code.
-<!--
+
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijayy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijayy&layout=compact&theme=dark)
+
 # 🌟 About Me
 - 🔭 I’m currently working on [Perpustakaan Web](https://github.com/alijayy/perpus).
 - 🌱 I’m learning **React** and **Django**.
 - 💬 Ask me about web development, and Python!
 - 🎯 2025 Goals: Contribute to open-source projects and improve my skills in backend and frontend development.
--->
 
 # 🛠️ Skills
 - **Programming Languages:**  
@@ -29,6 +32,3 @@ I'm a passionate developer who loves building cool projects and solving problems
 - [Another Cool Repo](https://github.com/alijayy/cool-repo): Experimenting with new technologies.
 -->
 
-## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijayy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijayy&layout=compact&theme=dark)
