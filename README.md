@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Ali!
+I'm a passionate developer who loves building cool projects and solving problems with code.
 
-<!--
-**alijayy/alijayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🔭 I’m currently working on [Perpustakaan Web](https://github.com/alijayy/perpus).
+- 🌱 I’m learning **React** and **Django**.
+- 💬 Ask me about web development, and Python!
+- 🎯 2024 Goals: Contribute to open-source projects and improve my skills in backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- Tools: ![Git](https://img.shields.io/badge/-Git-lightgrey) ![VSCode](https://img.shields.io/badge/-VSCode-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+<!- [Awesome Project](https://github.com/alijayy/awesome-project): A project that solves X problem.
+- [Another Cool Repo](https://github.com/alijayy/cool-repo): Experimenting with new technologies.
+-!>
+
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijayy&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijayy&layout=compact&theme=dark)
