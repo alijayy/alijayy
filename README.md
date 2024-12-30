@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Ali!
 I'm a passionate developer who loves building cool projects and solving problems with code.
-
+<!--
 # 🌟 About Me
 - 🔭 I’m currently working on [Perpustakaan Web](https://github.com/alijayy/perpus).
 - 🌱 I’m learning **React** and **Django**.
 - 💬 Ask me about web development, and Python!
 - 🎯 2025 Goals: Contribute to open-source projects and improve my skills in backend and frontend development.
+-->
 
 # 🛠️ Skills
 - **Programming Languages:**  
