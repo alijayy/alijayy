@@ -29,5 +29,5 @@ I'm a passionate developer who loves building cool projects and solving problems
 -->
 
 ## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijayy&show_icons=true&theme=dark)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijayy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijayy&layout=compact&theme=dark)
